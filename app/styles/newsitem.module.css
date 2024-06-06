@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 5px;
+    box-shadow: 0 0 2px 0 gray;
+    width: 300px;
+    height: 300px;
+}
+
+.h5{
+    font-size: 12px;
+    font-weight: 600;
+text-overflow: ellipsis;
+
+}
